@@ -12,7 +12,7 @@ Upon project creation, the ".expo" folder is already added to your ".gitignore" 
 I added a bold formating to the text and increase the font size to 24.
 > after i change the background colour to light green.
 
-![Uploading Screenshot 2024-05-27 084201.png…]()
+
 ![Screenshot 2024-05-27 084201](https://github.com/PAA-KWASI08/rn-assignment2-11146019/assets/170183141/de2f91ee-5a07-479d-89ff-44075a892685)
 
 
